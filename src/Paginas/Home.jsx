@@ -17,13 +17,13 @@ function Home() {
           />
           <InformPessoas
             name="Muito prazer, meu nome é Rafael Quaresma, sou estudante da área de TI no curso da Fiap School. " 
-            email="rafinha@gmail.com" 
+            email="quaresmar290@gmail.com" 
             phone="11 99881-9933" 
             text="Minhas habilidades estão no design, onde eu consigo deselvolver mais coisas com maior facilidade. Mas eu credito que com dedicação, tudo é possível."
           />
           <InformPessoas
             name="Opa, sou o Victor Lauria gosto de jogar, de ir pra academia e jogar futebol." 
-            email="victor@gmail.com" 
+            email="VLCruz37@gmail.com" 
             phone="11 94828-2947" 
             text="Tenho o sonho de me tornar alguém bem sucedido na area de tecnologia e viver bem tenho mais facilidade no front-end com o js e junto com o desing."
           />
