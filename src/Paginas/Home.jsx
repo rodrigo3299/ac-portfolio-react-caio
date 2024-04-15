@@ -1,5 +1,6 @@
 import InformPessoas from '../Componentes/InformPessoas';
 import Contato from '../Componentes/Contato'
+import Imgfoto from '../Componentes/imagens/rafinha.png'
 
 
 function Home() {
@@ -20,6 +21,7 @@ function Home() {
             email="quaresmar290@gmail.com" 
             phone="11 99881-9933" 
             text="Minhas habilidades estão no design, onde eu consigo deselvolver mais coisas com maior facilidade. Mas eu credito que com dedicação, tudo é possível."
+            img={Imgfoto}          
           />
           <InformPessoas
             name="Opa, sou o Victor Lauria gosto de jogar, de ir pra academia e jogar futebol." 
